@@ -8,6 +8,7 @@ public class TestArrayList {
     public static void main(String[] args) {
         //1.创建 ArrayList 实例
         List<String> arrayList = new ArrayList<>();
+        ArrayList<String> arrayList1 = new ArrayList<>();
         //输出 arrayList 中的元素
         System.out.println(arrayList);
         //输出 arrayList 中元素的个数
